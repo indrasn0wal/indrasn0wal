@@ -35,7 +35,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrasn0wal&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Indra's GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrasn0wal&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&hide=jupyter%20notebook,html" alt="Top Languages" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=indrasn0wal&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&hide=jupyter%20notebook,html](https://github-readme-stats.vercel.app/api/top-langs/?username=indrasn0wal&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" />
 </div>
 
 ---
