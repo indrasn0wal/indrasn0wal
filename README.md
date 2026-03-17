@@ -1,7 +1,7 @@
 # Hi there, I'm Indra Sonowal 👋
 ### ML Enthusiast | Document Intelligence | Speech AI
 
-I'm deeply interested in Document Intelligence and Speech AI, specifically ASR, TTS, and Multimodal speech using the cross-attention of vision and speech features. I love building robust systems and actively contributing to the open-source community.
+I'm interested in Document Intelligence and Speech AI, specifically ASR, TTS, and Multimodal speech using the cross-attention of vision and speech features. In my free time, I love contributing to the open-source community.
 
 ---
 
