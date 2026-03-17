@@ -36,7 +36,8 @@ I'm interested in Document Intelligence and Speech AI, specifically ASR, TTS, an
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect & Collaborate
+I am actively open to remote research collaborations in Document Intelligence, VLM/OCR, and Speech AI. If you are working on exciting projects or aiming for high-impact academic publications, I would love to connect!
 
 <a href="https://www.linkedin.com/in/indrasn0wal/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
