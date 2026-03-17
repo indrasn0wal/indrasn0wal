@@ -1,9 +1,7 @@
-<h1 align="center">Hi there, I'm Indra Sonowal 👋</h1>
-<h3 align="center">ML Enthusiast | Document Intelligence | Speech AI</h3>
+# Hi there, I'm Indra Sonowal 👋
+### ML Enthusiast | Document Intelligence | Speech AI
 
-<p align="center">
-  I'm deeply interested in Document Intelligence and Speech AI, specifically ASR, TTS, and Multimodal speech using the cross-attention of vision and speech features. I love building robust systems and actively contributing to the open-source community.
-</p>
+I'm deeply interested in Document Intelligence and Speech AI, specifically ASR, TTS, and Multimodal speech using the cross-attention of vision and speech features. I love building robust systems and actively contributing to the open-source community.
 
 ---
 
@@ -30,22 +28,19 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indrasn0wal&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Indra's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrasn0wal&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Indra's GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrasn0wal&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&hide=jupyter%20notebook,html" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=indrasn0wal&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Indra's GitHub Stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=indrasn0wal&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Indra's GitHub Streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrasn0wal&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&hide=jupyter%20notebook,html" alt="Top Languages" />
 
 ---
 
 ### 📫 Let's Connect
 
-<p align="left">
 <a href="https://www.linkedin.com/in/indrasn0wal/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:indra.lav2003@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-</p>
