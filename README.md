@@ -28,11 +28,11 @@ I'm interested in Document Intelligence and Speech AI, specifically ASR, TTS, an
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=indrasn0wal&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Indra's GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=indrasn0wal&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Indra's GitHub Stats" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrasn0wal&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Indra's GitHub Streak" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrasn0wal&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&hide=jupyter%20notebook,html" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrasn0wal&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&hide=jupyter%20notebook,html" alt="Top Languages" />
 
 ---
 
