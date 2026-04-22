@@ -7,7 +7,7 @@ I'm interested in Document Intelligence and Speech AI, specifically ASR, TTS, an
 
 ### 🚀 What I'm Up To
 * **🔭 Currently working on:** Building OCR models for Indic languages and exploring high-performance object detection (RT-DETR, YOLO).
-* **🌱 Currently learning:** Multi-modal cross-attention techniques, Self-supervised learning for VLM and OCR, VLM alignment in TRL, and exploring JEPA models. 
+* **🌱 Currently learning:** Multi-modal cross-attention techniques, Self-supervised learning for VLM and OCR, VLM alignment in TRL, Autonomous Vehicle Technology in Weather transitioning, and exploring JEPA models. 
 * **🎯 Goals:** Contributing to open-source research and publishing high-impact academic papers at top-tier venues.
 
 ### 💻 Tech Stack & Tools
